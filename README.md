@@ -7,4 +7,5 @@
 - index.php 入口，输入要扫描的IP地址
 - ScanPort.php 端口扫描并输出结果
 ## 界面 
-
+![](https://github.com/catkint/ScanPort/blob/master/image/input.jpg)
+![](https://github.com/catkint/ScanPort/blob/master/image/output.jpg)
